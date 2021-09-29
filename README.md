@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NikSamForge
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Programing 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. AT Discord My name is Nik Sam#3367
 
 <!---
